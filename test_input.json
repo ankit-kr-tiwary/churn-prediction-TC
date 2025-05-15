@@ -1,0 +1,21 @@
+{
+  "gender_Male": 1,
+  "SeniorCitizen": 0,
+  "Partner_Yes": 1,
+  "Dependents_Yes": 0,
+  "tenure": 5.2,
+  "PhoneService_Yes": 1,
+  "MultipleLines_No phone service": 0,
+  "InternetService_Fiber optic": 1,
+  "OnlineSecurity_No": 1,
+  "OnlineBackup_Yes": 0,
+  "DeviceProtection_No": 1,
+  "TechSupport_No": 1,
+  "StreamingTV_Yes": 1,
+  "StreamingMovies_No": 0,
+  "Contract_Month-to-month": 1,
+  "PaperlessBilling_Yes": 1,
+  "PaymentMethod_Electronic check": 1,
+  "MonthlyCharges": 75.2,
+  "TotalCharges": 300.5
+}
