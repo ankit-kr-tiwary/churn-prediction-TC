@@ -1,11 +1,11 @@
-# churn-prediction-TC
 
 
-# 📊 Customer Churn Prediction API
+
+# Customer Churn Prediction API
 
 This project demonstrates how to deploy a machine learning model to predict customer churn using a REST API built with Flask, and containerize it using Docker.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 churn_api/
@@ -22,16 +22,16 @@ churn_api/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 🔧 Requirements
+### Requirements
 
 - Docker (for containerization)
 - Python 3.11+ (if running locally without Docker)
 
 ---
 
-## 🔍 Step-by-Step Instructions
+##  Step-by-Step Instructions
 
 ### 1. Clone or Download the Project
 
@@ -73,7 +73,7 @@ curl -X POST http://localhost:5000/predict \
 
 ---
 
-## 🔄 Sample Input (`test_input.json`)
+## Sample Input (`test_input.json`)
 
 ```json
 {
@@ -101,7 +101,7 @@ curl -X POST http://localhost:5000/predict \
 
 ---
 
-## 🔄 CI/CD (Optional)
+## CI/CD (Optional)
 
 This project optionally supports **GitHub Actions**.
 
@@ -113,7 +113,7 @@ This project optionally supports **GitHub Actions**.
 
 ---
 
-## 🧠 Monitoring Suggestions
+## Future Scope
 
 | Metric           | Tool                   | Purpose                          |
 |------------------|------------------------|----------------------------------|
@@ -123,7 +123,7 @@ This project optionally supports **GitHub Actions**.
 
 ---
 
-## 📈 Scaling Recommendations
+## Deployment to cloud services
 
 - Deploy on AWS ECS / Fargate / Lambda
 - Use GCP Cloud Run or Azure Container Apps
@@ -131,7 +131,7 @@ This project optionally supports **GitHub Actions**.
 
 ---
 
-## 👨‍💻 Maintainer
+## Maintainer
 
 This project was built as part of a Data Science MLOps interview task.
 
